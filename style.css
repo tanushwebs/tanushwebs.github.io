@@ -1,0 +1,62 @@
+-body{
+    margin: 0;
+
+}
+
+header{
+    background: blanchedalmond;
+    height: 60px;
+   
+    width: 100%;
+}
+
+nav{
+    
+  text-align: center;  
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+nav li {
+    display: inline;
+    margin-left: 70px;
+    padding: 15px;
+    
+    
+}
+
+nav a{
+    top: 25px;
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    position: relative;
+}
+
+nav a:hover{
+    color: gray;
+}
+
+footer {
+    color: black;
+background-color: blanchedalmond;
+text-align: center;
+
+bottom: 0%;
+padding: 10px;
+width: 98.95%;
+
+}
+
+li {
+    list-style: none;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
